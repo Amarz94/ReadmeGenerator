@@ -4,7 +4,7 @@ const util = require('util');
 
 
 const api = require('./utils/api.js');
-const generateMarkdown = require('./utils/generateMarkdown.js');
+const generateMarkdown = require('./utils/readmeGen.js');
 
 const questions = [
     // GitHub Username
