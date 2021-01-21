@@ -3,9 +3,9 @@
   
   
   ## Description 
-  To generate readmes through a terminal using node.
   
   
+  To generate readmes through a terminal using node
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -16,17 +16,17 @@
   ## Installation
   
   
-  Would need to download bash or a terminal and run the file through it.
+  Would need to download bash or a terminal
   
   ## Usage 
   
    
-
+  Meow im a cat
   
   ## Tests
   
   
-  
+  Use cats to get meows
   
   ## License
   
@@ -41,3 +41,4 @@
   For any questions, please contact me with the information below:
  
   GitHub: [@Amarz94](https://api.github.com/users/Amarz94)
+  
