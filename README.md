@@ -1,5 +1,5 @@
 # Read me Generator
-  ![Badge for GitHub](https://img.shields.io/github/languages/top/Amarz94/Readmegenerator?style=flat&logo=appveyor) 
+  ![](utils/Images/demo.avi)
   
   
   ## Description 
@@ -9,34 +9,20 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [License](#license)
-  
+
   ## Installation
   
+  First, clone this repository to your system.
+  Then, Open file in VSC and install the following dependencies:
+  - inquirer
+  - axois
   
-  Would need to download bash or a terminal and run the file through it.
+  lastly, run the file in node.js.
   
-  ## Usage 
-  
-   
 
-  
-  ## Tests
-  
-  
-  
-  
-  ## License
-  
-  mit
-  
-  ---
   
   ## Questions?
   
-  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/72664382?v=4) 
   
   For any questions, please contact me with the information below:
  
