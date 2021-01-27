@@ -1,5 +1,5 @@
 # Read me Generator
-  ![](utils/Images/demo.avi)
+  Video is in utils/images
   
   
   ## Description 
