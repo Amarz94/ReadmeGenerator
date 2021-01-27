@@ -1,11 +1,11 @@
-# Read me Generator
-  ![Badge for GitHub](https://img.shields.io/github/languages/top/Amarz94/Readmegenerator?style=flat&logo=appveyor) 
+# Im a cat
+  ![Badge for GitHub](https://img.shields.io/github/languages/top/amarz94/readmegenerator?style=flat&logo=appveyor) 
   
   
   ## Description 
   
   
-  To generate readmes through a terminal using node
+  Meow
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -16,21 +16,21 @@
   ## Installation
   
   
-  Would need to download bash or a terminal
+  Cats
   
   ## Usage 
   
    
-  Meow im a cat
+  meow meow
   
   ## Tests
   
   
-  Use cats to get meows
+  Meow
   
   ## License
   
-  mit
+  artistic-2.0
   
   ---
   
